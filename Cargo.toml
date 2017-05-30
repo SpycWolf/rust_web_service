@@ -1,6 +1,9 @@
 [package]
 name = "rust_web_service"
 version = "0.1.0"
-authors = ["kota.kaneko <kota.kaneko@livesense.co.jp>"]
+authors = ["spyc wolf <spyc.wolf@example.com>"]
 
 [dependencies]
+
+[dependencies.iron]
+version = "*"
